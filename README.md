@@ -20,5 +20,5 @@ Use Vagrant to spin up 3 instances:
 
 # Adding fingerprint to list of known hosts
 - This will add the db and web ip to list of known hosts
--`ssh-keyscan -H 192.168.33.10 >> /home/vagrant/.ssh/known_hosts`
--`ssh-keyscan -H 192.168.33.11 >> /home/vagrant/.ssh/known_hosts`
+-$ ssh-keyscan -H 192.168.33.10 >> /home/vagrant/.ssh/known_hosts
+-$ ssh-keyscan -H 192.168.33.11 >> /home/vagrant/.ssh/known_hosts

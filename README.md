@@ -11,11 +11,12 @@ Use Vagrant to spin up 3 instances:
 - Ansible Controller
 - Web
 - DB
+- run an update and upgrade on each
 
--run an update and upgrade on each
+## Configuring Ansible
 
--On the controller, install ansible (refer to the controller_config.sh)
--Change the hosts file located in /etc/ansible folder to include web and db ip addresses (refer to eng99_IaC_Ansible/eng99_IaC_ansible/ansible_config/hosts file)
+- On the controller, install ansible (refer to the controller_config.sh)
+- Change the hosts file located in /etc/ansible folder to include web and db ip addresses (refer to eng99_IaC_Ansible/eng99_IaC_ansible/ansible_config/hosts file)
 
 
 # Adding fingerprint to list of known hosts

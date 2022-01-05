@@ -34,3 +34,6 @@ ansible web -a "systemctl status nginx"
 
 ![image](https://user-images.githubusercontent.com/14828358/148257181-ec496112-b44e-4c0c-97f4-26694747325f.png)
 
+# Importing
+
+https://docs.ansible.com/ansible/latest/collections/ansible/builtin/import_playbook_module.html

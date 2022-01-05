@@ -29,3 +29,8 @@ ansible web -a "systemctl status nginx"
 
 
 ![image](https://user-images.githubusercontent.com/14828358/148256978-e6c499a8-45ab-4c1a-b7ca-64e9a6fabb42.png)
+
+# Hosts
+
+![image](https://user-images.githubusercontent.com/14828358/148257181-ec496112-b44e-4c0c-97f4-26694747325f.png)
+

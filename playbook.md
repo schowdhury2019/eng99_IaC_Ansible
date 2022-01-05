@@ -20,3 +20,6 @@ ansible web -a "systemctl status nginx"
 ## Running the app from playbook
 
 ![image](https://user-images.githubusercontent.com/14828358/148227279-50a00a25-9c61-4a3d-b71e-9e13516b2d7e.png)
+
+
+![image](https://user-images.githubusercontent.com/14828358/148228781-00601de4-4c1a-4ea3-9b18-2b03adfe9aa6.png)

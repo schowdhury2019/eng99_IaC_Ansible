@@ -13,4 +13,4 @@ sudo ansible-vault edit pass.yml
 
 sudo vim /etc/ssh/sshd_config
 
-![image](https://user-images.githubusercontent.com/14828358/148538553-5a2f1069-2f35-4174-bf49-29e900517c4a.png)
+![image](https://user-images.githubusercontent.com/14828358/148538877-9aef5f86-ce23-4253-aa60-50ca1eabfc48.png)
